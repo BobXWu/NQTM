@@ -1,6 +1,6 @@
 # Code for Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder
 
-[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.138.pdf)
+**[EMNLP2020](https://www.aclweb.org/anthology/2020.emnlp-main.138.pdf)** | **[Presentation Video](https://slideslive.com/38938639/short-texts-topic-modeling-with-topic-distribution-quantization-and-negative-sampling-decoder)**
 
 
 ## Usage
@@ -18,7 +18,7 @@ requirements:
 
 Note: the data in the path ./data has been preprocessed with tokenization, filtering non-Latin characters, etc before.
 
-    python utils/preprocess.py --path data/stackoverflow --output_dir input/stackoverflow
+    python utils/preprocess.py --data_path data/stackoverflow --output_dir input/stackoverflow
 
 
 ### 2. Run the model
