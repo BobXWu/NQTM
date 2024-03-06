@@ -1,4 +1,8 @@
+## **Check our latest topic modeling toolkit [TopMost](https://github.com/bobxwu/topmost) !**
+
+
 # Code for Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder
+
 
 **[EMNLP2020](https://www.aclweb.org/anthology/2020.emnlp-main.138.pdf)** | **[Presentation Video](https://slideslive.com/38938639/short-texts-topic-modeling-with-topic-distribution-quantization-and-negative-sampling-decoder)**
 
